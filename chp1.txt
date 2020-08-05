@@ -1,1 +1,3 @@
-this is going to be the first save and the first chapter in this learnign series
+this is going to be the first save and the first chapter in this learning series
+
+now this is the advanced stuff of branching and merging
